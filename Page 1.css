@@ -1,0 +1,33 @@
+h1{
+    width:100%;
+    text-align:center;
+    border: 70px;
+    font-family: "Comic Sans MS";
+    font-weight: 100;
+    box-sizing: border-box;
+    padding:10px;
+    color:red;
+    margin: auto;
+    display: inline-block;
+
+}
+body.relative{
+    position: relative;
+    width: 400px;
+    height: 200px;
+    border: 3px solid #73AD21;
+}
+h2{
+    width:100%;
+    text-align:center;
+    border: 70px;
+    font-family: "Comic Sans MS";
+    font-weight: 100;
+    box-sizing: border-box;
+    padding:10px;
+    color:red;
+}
+body{
+    background-color: gold ;
+}
+
